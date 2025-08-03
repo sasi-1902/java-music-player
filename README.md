@@ -29,3 +29,15 @@ A desktop music player built with Java Swing, featuring:
    ```bash
    git clone https://github.com/sasi-1902/java-music-player.git
    cd java-music-player
+
+
+2. Build the project using Gradle:
+
+   ```bash
+   ./gradlew build
+
+
+3. Run the application:
+
+   ```bash
+   java -cp build/libs/MAD_MusicPlayer-1.0.jar gui.Main
