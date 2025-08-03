@@ -1,7 +1,5 @@
-# java-music-player
-A Java-based desktop music player with GUI and SQLite backend, built using Swing and Gradle. 
-
 # Java Music Player (Swing + Gradle)
+A Java-based desktop music player with GUI and SQLite backend, built using Swing and Gradle. 
 
 A desktop music player built with Java Swing, featuring:
 - User authentication (Admin and User roles)
